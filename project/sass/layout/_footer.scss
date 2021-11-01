@@ -1,0 +1,18 @@
+.footer {
+    height: 30%;
+    padding-top: 170px;
+    text-align: center;
+    background-image: url(../assets/images/svg/pattern-hills.svg);
+    background-repeat: no-repeat;
+    background-position: 85% bottom;
+    background-size: 300%;
+
+    &__socialMediaLink {
+        margin: 0 15px;
+    }
+
+    &__socialMediaImg {
+        font-size: 1.7rem;
+        color: var(--text-color-paragraph);
+    }
+}

@@ -1,0 +1,15 @@
+.timer {
+    height: 70%;
+    padding-top: 10em;
+    background-image: url(../assets/images/svg/bg-stars.svg);
+
+    &__title {
+        margin-top: 0;
+        margin-bottom: 3em;
+        padding: 0 1.5em;
+        font-size: 1.3rem;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+    }
+}
