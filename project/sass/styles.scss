@@ -3,7 +3,9 @@
 @import "base/base";
 
 @import "layout/countdownContainer";
-@import "layout/timer.scss";
-@import "layout/footer.scss";
+@import "layout/timer";
+@import "layout/footer";
 
-@import "components/counter.scss";
+@import "components/counter";
+
+@import "config/media-screen";

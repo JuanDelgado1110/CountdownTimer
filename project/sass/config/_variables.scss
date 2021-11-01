@@ -6,7 +6,15 @@
     --text-color-paragraph: hsl(237, 18%, 59%);
     --text-color-number: hsl(345, 95%, 68%);
 
+    --number-fontSize-mobile: 2.5rem;
+    --date-fontSize-mobile: 0.7rem;
+
     --box-color-bgPrimary: hsl(235, 21%, 26%);
     --box-color-bgSecondary: hsla(235, 15%, 14%, 0.63);
     --box-color-shadow: hsl(234, 17%, 12%);
+
+    @media screen and (min-width: 720px) {
+        --number-fontSize-mobile: 4rem;
+        --date-fontSize-mobile: 1rem;
+    }
 }
