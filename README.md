@@ -78,5 +78,5 @@ _See the [JS file](https://github.com/JuanDelgado1110/CountdownTimer/blob/master
 
 ### Links
 
--   [Solution](https://your-live-site-url.com)
+-   [Solution](https://www.frontendmentor.io/solutions/countdown-timer-with-html-sass-vanilla-js-XvXKssKuh)
 -   [Live Site](https://juandelgado1110.github.io/CountdownTimer)
